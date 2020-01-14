@@ -1,5 +1,3 @@
-# Shelter-s-math-worksheet
-2.0
 <h1>Shelter's math Worksheet</h1>
 <p>Do these fast and correctly</p>
 <ul>
