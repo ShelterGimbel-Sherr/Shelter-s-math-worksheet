@@ -1,4 +1,4 @@
-<h1>Shelter's fantastic math Worksheet</h1>
+<h1>Shelter's fantastic Math Worksheet</h1>
 <p>Do these fast and correctly</p>
 <ul>
   <li>5 + 5 = <input data-correct="10"/></li>
