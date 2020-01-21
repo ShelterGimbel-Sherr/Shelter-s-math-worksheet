@@ -1,8 +1,3 @@
-   <li> \( 2^3 \) <input data-correct="8"/> </li>
-  <li> \( \sqrt[3]{8} \) <input data-correct="2"/></li>
-  <li> \( 8^\frac{1}{3} \) <input data-correct="2" /></li>
-    <li> \( 27^\frac{-2}{3} \) <input data-correct="1/9" /></li>
-  <ol>
 <h1>Shelter's math Worksheet</h1>
 <p>Do these fast and correctly</p>
 <ul>
